@@ -1,6 +1,10 @@
 # nuxt-test
 
-> My premium Nuxt.js project
+> Nuxtjs starter project
+
+## Already have
+
+typescript, stylus, pug, tailwindcss
 
 ## Build Setup
 
